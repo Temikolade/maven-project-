@@ -4,3 +4,4 @@ instance_name = "mami"
 
 profile_name = "default"
 region = "us-east-2"
+
